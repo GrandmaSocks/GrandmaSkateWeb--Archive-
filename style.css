@@ -1,0 +1,110 @@
+html{
+    background-color: #303841;
+    color: #eeeeee;
+    font-family: "Bangers";
+    user-select: none;
+    margin-left:auto;
+    margin-right:auto;
+    width:1900px;
+}
+
+#home{
+    height: 1700px;
+}
+
+#nav{
+    font-size: 40px;
+    background-color: #3a4750;
+    padding: 0px;
+    margin: -7px;
+    text-align: center;
+}
+
+.head{
+    font-size: 80px;
+    text-align: center;
+    color: #eeeeee;
+}
+
+.body{
+    text-align: center;
+    font-family: "Lato";
+    font-size: 40px;
+    color: #eeeeee;
+    
+}
+
+.code{
+    position: relative;
+    left: 765px;
+    font-size: 20px;
+    outline: auto;
+    color: #eeeeee;
+}
+
+.code1{
+    position: relative;
+    left: 650px;
+    font-size: 20px;
+    outline: auto;
+    color: #eeeeee;
+}
+
+.display{
+    margin-right: 160px;
+    margin-top: 20px;
+    position: relative;
+    left: 135px;
+}
+
+.selected{
+    color: #eeeeee;
+    padding: 38px;
+    font-size: 45px;
+    z-index: -1;
+}
+
+#GrandmaSocks{
+    text-align: center;
+    font-size: 50px;
+    color: #eeeeee;
+    position: relative;
+    left: 800px;
+    top: 50px;
+}
+
+#getmore{
+    position: relative;
+    left: 735px;
+    top: 50px;
+}
+
+#grandmaImage{
+    position: relative;
+    left: 585px;
+    top: 60px;
+}
+
+#applyForm{
+    position: relative;
+    left: 620px;
+}
+
+#more{
+    bottom: 250px;
+}
+
+#aboutPage{
+    
+}
+
+#discordLink{
+    position: relative;
+    top: -30px;
+    left: 795px;
+}
+
+#checkout{
+    position: relative;
+    top: -50px;
+}
