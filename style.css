@@ -94,10 +94,6 @@ html{
     bottom: 250px;
 }
 
-#aboutPage{
-    
-}
-
 #discordLink{
     position: relative;
     top: -30px;
@@ -107,4 +103,34 @@ html{
 #checkout{
     position: relative;
     top: -50px;
+}
+
+.downloadDisplay{
+    width: 33%;
+    bottom: 45px;
+    position: relative;
+    outline: auto;
+    outline-color: white;
+}
+
+#youtubeVid{
+    position: relative;
+    left: 665px;
+    outline: auto;
+}
+
+.radio{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    position: relative;
+    left: 720px;
+    padding-right: 50px;
+}
+
+.submitButton{
+    position: relative;
+    top: 35px;
+    left: 375px;
+    padding-right: 55px;
+    padding-left: 55px;
 }
