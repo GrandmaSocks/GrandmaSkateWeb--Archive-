@@ -64,30 +64,16 @@ html{
     z-index: -1;
 }
 
-#GrandmaSocks{
-    text-align: center;
-    font-size: 50px;
-    color: #eeeeee;
-    position: relative;
-    left: 800px;
-    top: 50px;
-}
-
 #getmore{
     position: relative;
     left: 735px;
     top: 50px;
 }
 
-#grandmaImage{
-    position: relative;
-    left: 585px;
-    top: 60px;
-}
-
 #applyForm{
     position: relative;
     left: 620px;
+    top: 100px;
 }
 
 #more{
@@ -133,4 +119,9 @@ html{
     left: 375px;
     padding-right: 55px;
     padding-left: 55px;
+}
+
+.teamDisplay{
+    margin-left: 600px;
+    outline: auto;
 }
