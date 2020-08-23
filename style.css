@@ -125,3 +125,10 @@ html{
     margin-left: 600px;
     outline: auto;
 }
+
+#breeziPoster{
+    position: relative;
+    left: 580px;
+    bottom: 45px;
+    outline: auto;
+}
